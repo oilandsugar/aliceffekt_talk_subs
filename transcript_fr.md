@@ -46,7 +46,7 @@ surtout pour faire du 3d, des languages basés avec des nodes.\
 
 # 5 min #
 
-Comme eh, Maya à ça je pense \
+Comme eh, Maya a ça je pense \
 Est-ce que vous faites du maya ici ou du 3DS?\
 *On utilise plus des logiciels comme sculptris, des affaires de même*\
 Ok, ben laisse faire.\
