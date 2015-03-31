@@ -45,3 +45,35 @@ It allows you do make a bunch of stuff like that, and it's going more and more i
 Especially for making 3D, node-based languages.\
 
 # 5 min #
+
+Like er, Maya has this I think\
+Are you using Maya here, or 3DS (3D Studio MAX)?\
+*We're mainly using programs like Sculptris, things like that*\
+OK, then forget about that.\
+So er, it's um, it's similar to a geographical map on which you can connect locations together. And for instance to do 5 + 5 you'll have a node that's called 5 and a node that's called 5 and another that's called +, and then the "+" node has a kind of output, and it's going to send out the answer. So you can make big graphs, it's very visual, it looks like a mind map, it's great.\
+And it allows me to build stuff like that.\
+I always advocate the way er, I think it's a bit lazy but, instead of doing something, I make something that will do it for me like I was saying earlier.\
+Like if for example someone told me "make some mountains", actually making mountains is the last thing I would've done. Because I find it really boring to make mountains.\
+But when you have a system like this which generates an infinite amount of things that you can just visit, in a way, I enjoy it way more. I mean, just visiting these environments that only exist within code makes programming something visual and beautiful, you know.\
+And it's less making it than playing.\
+There's a book that I can't remember the name of, damn, but there's something really interesting in it, it's they say, it's a kind of alternate-reality world in which books have been invented after the computer.\
+So it's the criticism of a mother that sees his child reading a book and says like : oh it's really pissing me off that new trend of reading books, it's non-interactive media, it's cold, it only instills values to someone without raising any question because you don't have any interaction with the medium.\
+And when you think of interaction in that way, it's true that things that aren't interactive, are kinda toxic.\
+And there's tons of people that resist that notion. There's going to be a lot of old people that are like, that will advocate listening to television instead of playing video games, and they'll even defame video games because it's not all ready and handed to you. Because you need to look for things you want out of it.\
+And I think that creativity, in my eyes, is exactly that, it's the act of looking for things instead of, taking it at face value, oh you want a portrait, I'm gonna paint it, I'll paint it because it's the only thing, the first thing that comes to my mind.\
+But, if you can build abstraction layers around the idea and you look around and build tools to make it, I think it's so much more fun.\
+And, maybe that's because programming frightens you as much as it frightened me when I started, and I was like "ah I don't want to do that, it's so boring."\
+But seriously if I could go back in time and slap myself, I'd do it because it's something that really changed my life. And it makes you much more independent if you [learn it].\
+You know, if you have an idea for a video game, you'll depend on the programmer to make it for you. And you'll depend on an audio guy to make music for it. And you'll never be able to completely realize the vision that you started with when making anything.\
+Like what frustrated me, is I had lots of ideas, but when I wanted to make them happen I had to ask a ton of people that were lazy.\
+So that's that, I made mountains.\
+*So that's a program from which you took things out, after programming it?*\
+No that takes, concretely it takes a plane, and umm, it extrudes it in a certain way based on a fractal system that you can look up online.\
+I put all my files online on something called GitHub, it's a collaboration plarform between artists, you really should try it one day.\
+It's, today if you wanted to collaborate it's the very best tool, it allows someone to keep data, to have versioning. Like, if I write music with other artists and we're able to remix it. And then the source file is untouched, if someone shares a file to me on GitHub, I can iterate on it without modifying the source, and we end up with two versions that we can build upon.\
+It's a really useful tool that's called GitHub, I'll write it down.\
+Check it out, I couldn't live without this thing.\
+Something that I really like is the open source model. I have lots of friends that make beautiful games, super interesting, and they make their source files accessible for everyone to see. Like all the apps that I made, the language thing, you can go on my website, you can download them, and you can see the source code, how I built all this stuff.\
+And no matter who, like recently, there was someone that was like : "Ah I'd really like it, " ah yeah that's it, someone came to me and was like : "I'd really like to add Korean to your app, like I'm learning Korean, but all my tools are shit. But I'd like to use your tool to learn Korean." He went and downloaded my files, through GitHub, there's a thing where you can suggest code changes, he suggested a patch that added Korean language to my app.
+
+# 10 min #
